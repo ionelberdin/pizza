@@ -1,6 +1,6 @@
-# pizza
+# Pizza
 
-## Ingredientes
+## Ingredients
 
 For 320g pizza balls with 60%hydration:
 - 120ml water
