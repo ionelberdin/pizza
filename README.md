@@ -59,3 +59,6 @@ In order to get all the pizza properly baked, I recommend to turn the pizza 180Â
 
 Repeat, try, fail, iterate, improve... But more than anything, enjoy the process, it's awesome.
 I'm still getting there, and not on a hurry at all to master it.
+
+## Videos
+https://youtube.com/shorts/vQUnAYWYvds?si=kSQhXLCE5OPiWM29
