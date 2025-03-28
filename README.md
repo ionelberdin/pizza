@@ -31,9 +31,11 @@ For 320g pizza balls with 60%hydration:
     - Either a tray with a lid or transparent foil should do.
 12. Leave them at room temperature for 2h.
 13. Fold each ball over itself and cover them again.
-14. Leave them for another hour.
+14. Leave them for another hour and a half (90min).
 15. Fold them again.
-16. Leave them for another hour and start pre-heating the oven at 470ºC (or otherwise to its max if 470ºC can't be reached).
+16. Leave them for another hour and a half (90min).
+17. Fold them again.
+18. Leave them for another hour (60min) and start pre-heating the oven at 470ºC (or otherwise to its max if 470ºC can't be reached).
     - In the normal electrical ovens I recommend using a pizza stone leaving 10-15cm to the top of the oven.
     - Depending how long your oven takes to reach the temperature you may start a bit later.
     - The important thing is the temperature in the stone. You may use a laser thermometer to check it.
