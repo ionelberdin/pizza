@@ -61,4 +61,4 @@ Repeat, try, fail, iterate, improve... But more than anything, enjoy the process
 I'm still getting there, and not on a hurry at all to master it.
 
 ## Videos
-https://youtube.com/shorts/vQUnAYWYvds?si=kSQhXLCE5OPiWM29
+[![Step 1: Create a nice and easy sour dough](https://img.youtube.com/vivQUnAYWYvds/0.jpg)](https://www.youtube.com/watch?v=vQUnAYWYvds)
